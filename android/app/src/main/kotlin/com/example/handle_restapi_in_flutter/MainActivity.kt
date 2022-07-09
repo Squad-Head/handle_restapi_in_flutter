@@ -1,0 +1,6 @@
+package com.example.handle_restapi_in_flutter
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
